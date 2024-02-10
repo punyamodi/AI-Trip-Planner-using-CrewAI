@@ -1,5 +1,5 @@
 from langchain.llms import Ollama
-ollama_openhermes = Ollama(model="openhermes")
+ollama_openhermes = Ollama(model="mistral")
 # Pass Ollama Model to Agents: When creating your agents within the CrewAI framework, you can pass the Ollama model as an argument to the Agent constructor. For instance:
 
 local_expert = Agent(
