@@ -8,3 +8,4 @@ __pycache__/
 venv/
 demo_preview.py
 take_screenshots.py
+run_tests.py
