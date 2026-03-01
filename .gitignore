@@ -6,3 +6,5 @@ __pycache__/
 .pytest_cache/
 .venv/
 venv/
+demo_preview.py
+take_screenshots.py

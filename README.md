@@ -10,6 +10,16 @@
 
 AI Trip Planner orchestrates three specialized AI agents to research destinations, compile local insider guides, and generate complete day-by-day travel itineraries. Enter your travel preferences and receive a fully personalized plan with hotel picks, restaurant recommendations, a packing list, and a detailed budget breakdown.
 
+## Screenshots
+
+| Landing Page | Form Filled |
+|:---:|:---:|
+| ![Landing page](assets/screenshot_landing.png) | ![Form filled](assets/screenshot_form_filled.png) |
+
+| Results View | Day-by-Day Itinerary |
+|:---:|:---:|
+| ![Results](assets/screenshot_results_top.png) | ![Itinerary](assets/screenshot_budget_content.png) |
+
 ## Features
 
 | Feature | Description |
